@@ -1,0 +1,19 @@
+.clock {
+    float: left;
+    top: 50%;
+    left: 20%; 
+    color: rgb(168, 17, 228);
+    font-size: 60px;
+    letter-spacing: 7px;
+}
+
+
+
+.stopwatch {
+    float: right;
+    top: 20%;
+    left: 20%; 
+    color: rgb(168, 17, 228);
+    font-size: 60px;
+    letter-spacing: 7px;
+}
